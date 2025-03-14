@@ -7,6 +7,7 @@ This repository contains Kubernetes manifests for deploying a MongoDB database a
 1️⃣ Clone the Repository
 
 git clone https://github.com/LauraOkafor/k8s-mongo-webapp.git
+
 cd your-repo-name
 
 2️⃣ Apply Kubernetes Manifests
