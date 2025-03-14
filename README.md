@@ -17,11 +17,13 @@ kubectl apply -f .
 3️⃣ Verify Deployments & Services
 
 kubectl get pods
+
 kubectl get services
 
 4️⃣ Access the Web Application
 
 Get the NodePort for the web app:
+
 kubectl get svc webapp-service
 
 Open in your browser:
